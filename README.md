@@ -1,2 +1,2 @@
 # project1
-This is a project where three pages are to be made with pictures and sentences on each page. There are three links on the first page that brings you to the other pages. 
+This is a project where three pages are to be made with pictures and sentences on each page. There are three links labeled on all three pages that navigates you through the pages. The first page is a cover page with a couple pictures. The second page is a complete resume. The third page is a brief overview of all the major Wisconsin sports teams, while including images and videos.   
